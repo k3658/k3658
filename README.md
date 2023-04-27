@@ -7,8 +7,12 @@
 - 🎮 В свободное время играю в игры
 - 🏫 Забавный факт: сменила 5 школ
 
+### Технологии
+
+
 ### Статистика
 [![k3658's GitHub stats](https://github-readme-stats.vercel.app/api?username=k3658)](https://github.com/k3658/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=k3658&size_weight=0.5&count_weight=0.5)](https://github.com/k3658/github-readme-stats)
 
 ### Мои контакты
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/k3658)
